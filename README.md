@@ -1,6 +1,6 @@
 # Alto
 
-A clean, minimalist theme featuring a light and dark mode. Launch your online publications with flair. Completely free and fully responsive, released under the MIT license.
+A clean, minimalist theme featuring a light and dark mode. Launch your online publications with flair. Completely free and fully responsive, released under the MIT license. Specially customised for Bengali text, for translation work.
 
 **Demo: https://alto.ghost.io**
 
